@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.log
+
+# Server env — keep example, ignore real
+server/.env
+
+# Client env — keep example, ignore real
+client/.env
+client/.env.local
+client/.env.*.local
+
+# Legacy root env (no longer used)
+.env

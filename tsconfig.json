@@ -1,0 +1,7 @@
+{
+  // Root tsconfig — not used for building directly.
+  // Each package has its own tsconfig:
+  //   server/tsconfig.json
+  //   client/tsconfig.json
+  "files": []
+}
