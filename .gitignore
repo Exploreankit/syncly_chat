@@ -12,3 +12,5 @@ client/.env.*.local
 
 # Legacy root env (no longer used)
 .env
+
+
